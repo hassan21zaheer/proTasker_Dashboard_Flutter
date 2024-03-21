@@ -1,17 +1,6 @@
 # projectmanagementadmindashboard
 
-A new Flutter project.
+![protasker](https://github.com/firgia/FD-Project-Management/assets/64303038/e437e0a6-9256-4d73-8066-a05f3fef0560)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# proTasker_Dashboard_Flutter
